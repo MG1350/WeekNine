@@ -1,4 +1,3 @@
-// Maverick Guinto 4/10
 public class Negative 
 {
     public static void main (String args [])
